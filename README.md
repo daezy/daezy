@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Ezet
 ===================================================================================================================================
 
-Full Stack Developer, Web3 Developer
+Software Engineer, Web3 Builder
 ------------------------------------
 
-I'm a full stack developer that loves building things
+I'm a software engineer that loves building things
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ezetdaniel@gmail.com](mailto:ezetdaniel@gmail.com)
-* 🧠  I'm learning Rust and Solana
+* 🧠  I'm learning devops and cloud computing
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Bring jobs
 
